@@ -52,16 +52,13 @@ An end-to-end smart attendance solution that integrates **Machine Learning**, **
 │ └── attendance_dashboard.pbix # Power BI dashboard file
 └── requirements.txt
 
-yaml
-Copy
-Edit
+
 
 ---
 
 ## ⚙️ Methodology
-
-### 1. Environment Setup
 ```bash
+1. Environment Setup
 conda create -n face-env python=3.9
 conda activate face-env
 pip install -r requirements.txt
