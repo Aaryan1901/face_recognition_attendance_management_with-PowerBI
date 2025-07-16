@@ -103,29 +103,21 @@ View attendance
 Download CSV
 
 🧪 Sample Output Log
-plaintext
-Copy
-Edit
+
 [INFO] Camera started...
 [✔] Recognized: Aaryan M at 09:23:41
 [✔] Recognized: Abhishek S at 09:23:47
 [✔] CSV Updated — Attendance marked.
 💻 How to Run the Project
 Step 1: Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/Aaryan1901/face_recognition_attendance_management_with-PowerBI.git
 cd face_recognition_attendance_management_with-PowerBI
+
 Step 2: Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Step 3: Launch the App
-bash
-Copy
-Edit
 python app.py
 Open your browser at http://127.0.0.1:5000/
 
